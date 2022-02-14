@@ -1,0 +1,19 @@
+#img1 
+{
+height: 100px;
+}
+
+#img2
+{
+    height: 100px;
+}
+
+body 
+{
+text-align: center;
+    background-color: rgb(182, 241, 190);
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    
+}
